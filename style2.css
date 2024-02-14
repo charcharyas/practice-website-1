@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+   background-color: gold;
+font-family: sans-serif;  
+ }
+h1 {
+  font-size: 45px;
+}
+
+img{
+  width: 690px;
+}
